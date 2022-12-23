@@ -29,7 +29,8 @@ function getRandCharFromArray(arr) {
 console.log('randChar', getRandCharFromArray(lowerCaseLettersArray)); // console.logs a random lowercase letter
 
 
-/*var generatePassword = (
+
+var generatePassword = (
   length = 8,
   wishlist = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz~!@-#$'
 ) =>
@@ -37,4 +38,4 @@ console.log('randChar', getRandCharFromArray(lowerCaseLettersArray)); // console
     .map((x) => wishlist[x % wishlist.length])
     .join('')
 
-console.log(generatePassword())*/
+console.log(generatePassword())
