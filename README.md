@@ -6,4 +6,5 @@ Deployed: https://maxr-e.github.io/enigma-machine-2022/
 
 ## Screenshot
 
-![Alt text](\challenge3\assets\images\screenshot-deployed.png?raw=true "Password Generator")
+![Alt text](/assets/images/screenshot-deployed.png "engima-machine-2022)
+\challenge3\assets\images\screenshot-deployed.png?raw=true "Password Generator")
